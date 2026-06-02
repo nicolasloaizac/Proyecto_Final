@@ -31,11 +31,11 @@
 
 - Repositorio original: https://github.com/nicolasloaizac/Proyecto_Final
 - Fecha de creación del repositorio: 2026-04-13 (antes del 14 de abril: si)
-- Total de commits desde creación del repo: 6
+- Total de commits desde creación del repo: 7
 - Primer commit: 2026-04-13
-- Último commit: 2026-05-27
-- Días activos con commits: 4
-- Semanas activas con commits: 3
+- Último commit: 2026-06-02
+- Días activos con commits: 5
+- Semanas activas con commits: 4
 - Mayor pausa entre commits: 33 días
 
 ### Aplicación al repositorio
@@ -43,8 +43,8 @@
 - Inicio oportuno: 5.0
 - Constancia semanal: 3.0
 - Regularidad: 3.0
-- Iteración: 3.0
-- Nota de ritmo de commits (promedio): 3.50 / 5.0
+- Iteración: 4.0
+- Nota de ritmo de commits (promedio): 3.75 / 5.0
 
 Interpretación breve: Ritmo aceptable con evidencia de trabajo distribuido.
 ## Retroalimentación
