@@ -5,7 +5,7 @@
 
 ## Archivos revisados
 
-- Proyecto_Final.ipynb (entregado)
+- Proyecto_Final.ipynb (versión final entregada)
 
 ## Historial de commits
 
@@ -30,7 +30,7 @@ Interpretación breve: Inicio temprano y número razonable de iteraciones, aunqu
 
 ## Retroalimentación
 
-- Archivo revisado: Proyecto_Final.ipynb
+- Archivo revisado: Proyecto_Final.ipynb (versión final entregada)
 
 ### Aspectos positivos
 
@@ -40,12 +40,22 @@ Interpretación breve: Inicio temprano y número razonable de iteraciones, aunqu
 
 ### Aspectos por mejorar
 
-- Agrega una sección final de conclusiones con respuestas concretas al objetivo del proyecto y una discusión breve de limitaciones del modelo.
-- Incluye una imagen final del disco como resultado integrador del notebook, acompañada de una explicación física breve y directa.
-- Refuerza la sección de emisión/observación (corrimiento espectral o equivalente) para que quede explícita la conexión con lo que vería un observador.
-- Mejora la continuidad narrativa entre secciones: después de cada bloque importante, añade una interpretación corta que anticipe el siguiente paso.
+- Agrega una sección final de conclusiones con respuestas concretas al objetivo del proyecto y una discusión breve de limitaciones del modelo. [Mejorado]
+- Incluye una imagen final del disco como resultado integrador del notebook, acompañada de una explicación física breve y directa. [No mejorado]
+- Refuerza la sección de emisión/observación (corrimiento espectral o equivalente) para que quede explícita la conexión con lo que vería un observador. [Mejorado]
+- Mejora la continuidad narrativa entre secciones: después de cada bloque importante, añade una interpretación corta que anticipe el siguiente paso. [Mejorado]
 
 ### Valoración global
 
 - Trabajo con bases técnicas adecuadas. El siguiente salto de calidad está en completar el cierre científico del informe: conclusiones claras y una salida final integrada del disco.
 - Estado de recepción: se recibe como fue entregado, con recomendaciones de mejora para fortalecer el informe final.
+- ¡Excelentes gráficos! 
+
+## Valoración final
+
+- Mejoras implementadas: 3,75 (70%)
+- Aplicación al repositorio: 3,50 (10%)
+- Aspectos positivos: 4,20 (10%)
+- Valoración global: 3,80 (10%)
+
+**Nota final (redondeada)**: 3,8
